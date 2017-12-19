@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@id": "l'equilibrista-con-la-stella",
+  "@type": "Movie",
+  "name": "L'equilibrista con la stella",
+  "url": "http://www.imdb.com/title/tt5100168/plotsummary?ref_=tt_ov_pl",
+  "description": "Year 1943. The story is set in South Tyrol, in the north Italy, during the second World War. The lifes of a Jew girl, Anastasia, and a circus boy, Thomas, meet when the little circus of Freit family arrives in the city. They soon fall in love. But their love is full of sacrifices, because of the racial laws. So Anastasia decides to hide in the circus, but also there the situation is hard because of the son of the Circus Director, Artur, who hates her because of her Jewish origins and wants her out of the circus. At the same time all the family of Anastasia, staying at home is deported. Only the sister of Anastasia, Greta, will luckily survive. After a series of unfortunate events, Anastasia will be obliged to mask herself first, then to escape from the circus. The story continues trough thick and thin, following an impossible love story between Anastasia and Thomas.",
+  "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2017",
+    "location": {
+      "@type": "Country",
+      "name": "Italy"
+    }
+  },
+ 
+  "image": [
+    "https://images-na.ssl-images-amazon.com/images/M/MV5BNzhkN2NkY2QtY2ViMy00MTY4LWE0YmMtZGEzYmRkMzg2YjMxXkEyXkFqcGdeQXVyNTY0MjY1OTk@._V1_.jpg",
+    "https://images-na.ssl-images-amazon.com/images/M/MV5BMmMwZmI1YTgtMDM4Ny00OTA1LTg2Y2MtNDFjNGVkYjFjYTE3XkEyXkFqcGdeQXVyNTY0MjY1OTk@._V1_.jpg",
+    "https://images-na.ssl-images-amazon.com/images/M/MV5BMDBhODFmNmMtMjcxMi00MWU3LTg2MmYtYWU1Y2RiZTZhMzRmXkEyXkFqcGdeQXVyNTY0MjY1OTk@._V1_.jpg",
+    "https://images-na.ssl-images-amazon.com/images/M/MV5BYjk4MzQxMjYtN2ZlMy00MGUzLThlMGEtZThiZGYyNDk3ZDFjXkEyXkFqcGdeQXVyNjE0MTEzOTg@._V1_.jpg"
+   ],
+  "sameAs": "http://www.imdb.com/title/tt5100168/?ref_=nm_knf_t1",
+  "actor": {
+    "@type": "Person",
+    "name": "Davide Campagna",
+    "sameAs": "http://www.imdb.com/name/nm6950929/"
+  },
+  "director": {
+    "@type": "Person",
+    "name": "Davide Campagna",
+    "sameAs": "http://www.imdb.com/name/nm6950929/?ref_=tt_ov_dr"
+  },
+  "duration": "PT2H",
+  "dateCreated": "2017-12-19"
+}
